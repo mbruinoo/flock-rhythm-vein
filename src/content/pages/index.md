@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Matt Warren Bruinooge
 tagline: Audiovisual artist
-featuredImage: /assets/img_3460-dev-invrs_1.jpg
+featuredImage: /assets/20200914_portraits_n-m_dsc_2636-e-inwhite.jpg
 cta:
   ctaText: About
   ctaLink: /about
