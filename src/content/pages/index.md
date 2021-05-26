@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Matt Warren Bruinooge
+tagline: Audiovisual artist
+featuredImage: /assets/img_3460-dev-invrs_1.jpg
 cta:
-  ctaText: Know more
+  ctaText: About
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Audiovisual artist specializing in digital video, photography, design, and web development
