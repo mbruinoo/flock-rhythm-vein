@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Matt Warren Bruinooge",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "audiovisual artist",
+    "siteUrl": "https://bruinooge.net",
+    "image": "/assets/mwb-wordmark-logo-2021.png",
+    "iconimage": "/assets/mwb-wordmark-logo-2021.png",
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-112686135-1"
 }
